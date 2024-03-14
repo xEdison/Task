@@ -1,0 +1,28 @@
+Main{
+    height: max-content;
+    background-color: aquamarine;
+}
+.tasks{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 30px;
+    padding: 20px;
+}
+.button{
+    width: 20vw;
+    
+}
+.input{
+    height: 30px;
+    border-radius: 10px;
+}
+.tasks label{
+   position: relative;
+   top: 3px;
+}
+.button button{
+    width: 10vw;
+    border-radius: 2px;
+    
+}

@@ -1,0 +1,20 @@
+Header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+    width: 100vw;
+    background-color: #a477ff;
+    justify-content: flex-end;
+    
+}
+.React{
+    margin-left: 20px;
+    height: 20vh;
+    margin-right: 30px;
+}
+.title{
+    margin-right: 300px;
+    font-size: 55px;
+    color: #fff;
+}
