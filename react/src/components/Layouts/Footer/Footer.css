@@ -1,0 +1,12 @@
+footer{
+    height: 138px;
+    background-color: #a477ff;
+    margin: -22px 0px 0px 0px;
+    
+}
+.Titlee{
+    position: relative; 
+    top: 40px;
+    display: flex;
+    justify-content: center;
+}

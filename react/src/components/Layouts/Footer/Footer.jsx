@@ -1,7 +1,7 @@
-import React from 'react'
-
-export const Footer = () => {
+import React, { Children } from 'react'
+import './Footer.css'
+export const Footer = ({children}) => {
   return (
-    <div>Footer</div>
+    <footer>{children}</footer>
   )
 }
